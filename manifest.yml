@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: lxlwatson20181223
+  hostname: lxlwatson20181223
+  random-route: false
+  disk_quota: 1024M
