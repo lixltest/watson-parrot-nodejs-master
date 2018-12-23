@@ -1,5 +1,5 @@
 #test
-#add my test in VS code
+#delete last commit
 # Watson Simple Parrot in Node.js
 
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
